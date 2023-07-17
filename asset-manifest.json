@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Jaammmees.github.io/static/css/main.99953912.css",
-    "main.js": "/Jaammmees.github.io/static/js/main.1e295846.js",
-    "static/js/787.128fc6e9.chunk.js": "/Jaammmees.github.io/static/js/787.128fc6e9.chunk.js",
-    "static/media/react_logo.png": "/Jaammmees.github.io/static/media/react_logo.81ed438b18e24116794d.png",
-    "static/media/python_logo.png": "/Jaammmees.github.io/static/media/python_logo.dea924d737bb84eb9ce3.png",
-    "static/media/cpp_logo.png": "/Jaammmees.github.io/static/media/cpp_logo.64f637357bce0ccc8384.png",
-    "static/media/html_logo.png": "/Jaammmees.github.io/static/media/html_logo.4de5d2224c60b7fbde73.png",
-    "static/media/c_logo.png": "/Jaammmees.github.io/static/media/c_logo.c0da8156a8d17281c29e.png",
-    "static/media/sql_logo.png": "/Jaammmees.github.io/static/media/sql_logo.9c9e418452a111f0d760.png",
-    "static/media/css_logo.png": "/Jaammmees.github.io/static/media/css_logo.bee63b9e863f48d93bda.png",
-    "static/media/js_logo.png": "/Jaammmees.github.io/static/media/js_logo.062825dbceed44567e91.png",
-    "static/media/signature.svg": "/Jaammmees.github.io/static/media/signature.b382e18215af02c7c22c086db0ca7f0c.svg",
-    "index.html": "/Jaammmees.github.io/index.html",
-    "main.99953912.css.map": "/Jaammmees.github.io/static/css/main.99953912.css.map",
-    "main.1e295846.js.map": "/Jaammmees.github.io/static/js/main.1e295846.js.map",
-    "787.128fc6e9.chunk.js.map": "/Jaammmees.github.io/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/static/css/main.99953912.css",
+    "main.js": "/static/js/main.9a8b1bc9.js",
+    "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/react_logo.png": "/static/media/react_logo.81ed438b18e24116794d.png",
+    "static/media/python_logo.png": "/static/media/python_logo.dea924d737bb84eb9ce3.png",
+    "static/media/cpp_logo.png": "/static/media/cpp_logo.64f637357bce0ccc8384.png",
+    "static/media/html_logo.png": "/static/media/html_logo.4de5d2224c60b7fbde73.png",
+    "static/media/c_logo.png": "/static/media/c_logo.c0da8156a8d17281c29e.png",
+    "static/media/sql_logo.png": "/static/media/sql_logo.9c9e418452a111f0d760.png",
+    "static/media/css_logo.png": "/static/media/css_logo.bee63b9e863f48d93bda.png",
+    "static/media/js_logo.png": "/static/media/js_logo.062825dbceed44567e91.png",
+    "static/media/signature.svg": "/static/media/signature.b382e18215af02c7c22c086db0ca7f0c.svg",
+    "index.html": "/index.html",
+    "main.99953912.css.map": "/static/css/main.99953912.css.map",
+    "main.9a8b1bc9.js.map": "/static/js/main.9a8b1bc9.js.map",
+    "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99953912.css",
-    "static/js/main.1e295846.js"
+    "static/js/main.9a8b1bc9.js"
   ]
 }
