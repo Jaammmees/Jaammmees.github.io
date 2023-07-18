@@ -19,10 +19,10 @@ function App() {
             case "Welcome":
               setBgColor('#FAF3DD');
               break;
-            case "Project 1":
+            case "SimCity 1989":
               setBgColor('#FFB85C');
               break;
-            case "Project 2":
+            case "UniLink":
               setBgColor('#EEF0F2');
               break;
             default:
@@ -34,8 +34,8 @@ function App() {
     );
 
     const welcomeElement = document.getElementById('Welcome');
-    const project1Element = document.getElementById('Project 1');
-    const project2Element = document.getElementById('Project 2');
+    const project1Element = document.getElementById('SimCity 1989');
+    const project2Element = document.getElementById('UniLink');
     observer.current.observe(welcomeElement);
     observer.current.observe(project1Element);
     observer.current.observe(project2Element);

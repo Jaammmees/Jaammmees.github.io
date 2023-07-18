@@ -5,8 +5,8 @@ function Main({ bgColor }) {
   return (
     <div className="Main" style={{backgroundColor: bgColor}}>
       <Section id="Welcome" name="Welcome" />
-      <Section id="Project 1"name="Project 1" />
-      <Section id="Project 2" name="Project 2" />
+      <Section id="SimCity 1989"name="SimCity 1989" />
+      <Section id="UniLink" name="UniLink" />
     </div>
   );
 }

@@ -12,8 +12,8 @@ function Sidebar() {
         </div> 
         <div className="Sidebar-Navigation">
             <NavItem name="Welcome" />
-            <NavItem name="Project 1" />
-            <NavItem name="Project 2" />
+            <NavItem name="SimCity 1989" />
+            <NavItem name="UniLink" />
         </div>
         <div className="SideBar-Footer">
             <SocialLink platform="GitHub" url="https://github.com/Jaammmees" />
