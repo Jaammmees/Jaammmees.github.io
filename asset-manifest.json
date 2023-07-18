@@ -1,24 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.99953912.css",
-    "main.js": "/static/js/main.9a8b1bc9.js",
+    "main.css": "/static/css/main.fcd41291.css",
+    "main.js": "/static/js/main.63f5aa02.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/viewClubs.png": "/static/media/viewClubs.69309c3772c6accb2e9f.png",
+    "static/media/introscreen.png": "/static/media/introscreen.71890c77f95079c58a54.png",
+    "static/media/Endgame.png": "/static/media/Endgame.283053b4c5770d2c6c47.png",
+    "static/media/mainscreen.png": "/static/media/mainscreen.7ad71784f8e5fb2018ce.png",
+    "static/media/myClubs.jpg": "/static/media/myClubs.e52a30e66bca59a972d9.jpg",
     "static/media/react_logo.png": "/static/media/react_logo.81ed438b18e24116794d.png",
     "static/media/python_logo.png": "/static/media/python_logo.dea924d737bb84eb9ce3.png",
     "static/media/cpp_logo.png": "/static/media/cpp_logo.64f637357bce0ccc8384.png",
+    "static/media/manageMembers.jpg": "/static/media/manageMembers.22e2d8b44702ef49a245.jpg",
     "static/media/html_logo.png": "/static/media/html_logo.4de5d2224c60b7fbde73.png",
+    "static/media/manageClubs.jpg": "/static/media/manageClubs.bafac4615386d45f5947.jpg",
     "static/media/c_logo.png": "/static/media/c_logo.c0da8156a8d17281c29e.png",
+    "static/media/createEvents.jpg": "/static/media/createEvents.a82522c97e5527977055.jpg",
     "static/media/sql_logo.png": "/static/media/sql_logo.9c9e418452a111f0d760.png",
+    "static/media/createPost.jpg": "/static/media/createPost.1928335e90e87dd98050.jpg",
     "static/media/css_logo.png": "/static/media/css_logo.bee63b9e863f48d93bda.png",
     "static/media/js_logo.png": "/static/media/js_logo.062825dbceed44567e91.png",
+    "static/media/JamesLim.png": "/static/media/JamesLim.ee95ec7e981b2fe8cf26.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/signature.svg": "/static/media/signature.b382e18215af02c7c22c086db0ca7f0c.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.99953912.css.map": "/static/css/main.99953912.css.map",
-    "main.9a8b1bc9.js.map": "/static/js/main.9a8b1bc9.js.map",
+    "main.fcd41291.css.map": "/static/css/main.fcd41291.css.map",
+    "main.63f5aa02.js.map": "/static/js/main.63f5aa02.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.99953912.css",
-    "static/js/main.9a8b1bc9.js"
+    "static/css/main.fcd41291.css",
+    "static/js/main.63f5aa02.js"
   ]
 }
