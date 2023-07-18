@@ -13,6 +13,12 @@ import ImageSlider from './ImageSlider';
 import Image1 from './SimCity/introscreen.png';
 import Image2 from './SimCity/mainscreen.png';
 import Image3 from './SimCity/Endgame.png';
+import Image4 from './UniLink/myClubs.jpg';
+import Image5 from './UniLink/createEvents.jpg';
+import Image6 from './UniLink/manageClubs.jpg';
+import Image7 from './UniLink/manageMembers.jpg';
+import Image8 from './UniLink/viewClubs.png';
+import Image9 from './UniLink/createPost.jpg';
 import React, { useContext, useEffect, useRef } from 'react';
 import ActiveSectionContext from './ActiveSectionContext';
 
@@ -24,6 +30,15 @@ function Section({ id, name, children }) {
     Image1,
     Image2,
     Image3
+  ];
+
+  const UniLinkImages = [
+    Image4,
+    Image5,
+    Image6,
+    Image7,
+    Image8,
+    Image9,
   ];
   
 
@@ -100,8 +115,23 @@ function Section({ id, name, children }) {
     );
   } else if (id === "UniLink") {
     content = (
-      <div>
-        <p>This is Project 2.</p>
+      <div className="UniLink-container">
+        <div className="UniLink-left">
+          <div className="about-me-title">
+            SimCity 1989 in C++
+          </div>
+          <div className="about-me-description">
+            <ul>
+              <li>Working collaboratively, we created SimCity 1989 with a C++ reincarnation.</li>
+              <li>Featuring a grid-based map and interactive text inputs.</li>
+              <li>Each house, uniquely generated at command such as 'B7 House', is characterized by distinct attributes and dependent on key resources.</li>
+              <li>This project served as a significant milestone in advancing my understanding of Object-Oriented Programming (OOP)</li>
+            </ul>
+          </div>
+        </div>
+        <div className="UniLink-right">
+          <ImageSlider className="UniLink-images" images={UniLinkImages}/>
+        </div>
       </div>
     );
   }
