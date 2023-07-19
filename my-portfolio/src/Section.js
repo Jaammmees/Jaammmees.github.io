@@ -86,6 +86,9 @@ function Section({ id, name, children }) {
             <img src={reactLogo} alt="React" className="logo" style={{width: 40}}/>
             <img src={sqlLogo} alt="sql" className="logo" style={{width: 30}}/>
           </div>
+          <a href="JamesLimResume.pdf" download>
+            <button class="rounded-button">Download Resume</button>
+          </a>
         </div>
         <div className="bouncing-container">
           <p className="bouncing-text">Check Out my Projects</p>

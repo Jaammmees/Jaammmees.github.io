@@ -278,3 +278,34 @@
 .UniLink-logo{
   width: 100%;
 }
+
+/* Resume Button */
+
+a{
+  width: 200px;
+  margin: 20px;
+}
+
+.rounded-button {
+  width: 200px;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 30px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+  border: none;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.rounded-button:hover {
+  background-color: #0056b3;
+  transform: scale(1.1);
+}
+
+.rounded-button:active {
+  background-color: #004080;
+  transform: scale(0.95);
+}
