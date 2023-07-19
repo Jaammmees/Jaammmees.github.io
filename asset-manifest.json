@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.37b21979.css",
-    "main.js": "/static/js/main.2bb0a965.js",
+    "main.js": "/static/js/main.3309142f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/viewClubs.png": "/static/media/viewClubs.69309c3772c6accb2e9f.png",
     "static/media/introscreen.png": "/static/media/introscreen.71890c77f95079c58a54.png",
+    "static/media/myClubs.jpg": "/static/media/myClubs.603ccae721939149fb4e.jpg",
     "static/media/Endgame.png": "/static/media/Endgame.283053b4c5770d2c6c47.png",
     "static/media/mainscreen.png": "/static/media/mainscreen.7ad71784f8e5fb2018ce.png",
-    "static/media/myClubs.jpg": "/static/media/myClubs.e52a30e66bca59a972d9.jpg",
+    "static/media/manageMembers.png": "/static/media/manageMembers.11bce063db7fe1c289ec.png",
+    "static/media/manageClubs.png": "/static/media/manageClubs.e6f60bcbec73352816e0.png",
     "static/media/react_logo.png": "/static/media/react_logo.81ed438b18e24116794d.png",
+    "static/media/createEvents.png": "/static/media/createEvents.2ca783dc825400486ce9.png",
     "static/media/python_logo.png": "/static/media/python_logo.dea924d737bb84eb9ce3.png",
+    "static/media/createPost.png": "/static/media/createPost.f62a5e2a6c8b7d1984b1.png",
     "static/media/cpp_logo.png": "/static/media/cpp_logo.64f637357bce0ccc8384.png",
-    "static/media/manageMembers.jpg": "/static/media/manageMembers.22e2d8b44702ef49a245.jpg",
     "static/media/html_logo.png": "/static/media/html_logo.4de5d2224c60b7fbde73.png",
-    "static/media/manageClubs.jpg": "/static/media/manageClubs.bafac4615386d45f5947.jpg",
     "static/media/c_logo.png": "/static/media/c_logo.c0da8156a8d17281c29e.png",
-    "static/media/createEvents.jpg": "/static/media/createEvents.a82522c97e5527977055.jpg",
     "static/media/sql_logo.png": "/static/media/sql_logo.9c9e418452a111f0d760.png",
-    "static/media/createPost.jpg": "/static/media/createPost.1928335e90e87dd98050.jpg",
     "static/media/css_logo.png": "/static/media/css_logo.bee63b9e863f48d93bda.png",
     "static/media/js_logo.png": "/static/media/js_logo.062825dbceed44567e91.png",
     "static/media/UniLinkLogo.png": "/static/media/UniLinkLogo.7624c47676fe8a5bd8ad.png",
@@ -29,11 +29,11 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.37b21979.css.map": "/static/css/main.37b21979.css.map",
-    "main.2bb0a965.js.map": "/static/js/main.2bb0a965.js.map",
+    "main.3309142f.js.map": "/static/js/main.3309142f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37b21979.css",
-    "static/js/main.2bb0a965.js"
+    "static/js/main.3309142f.js"
   ]
 }
