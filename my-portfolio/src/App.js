@@ -23,7 +23,7 @@ function App() {
               setBgColor('#FFB85C');
               break;
             case "UniLink":
-              setBgColor('#EEF0F2');
+              setBgColor('#b7bfc8');
               break;
             default:
               setBgColor('#ffffff');
