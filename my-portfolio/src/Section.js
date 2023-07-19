@@ -19,6 +19,7 @@ import Image6 from './UniLink/manageClubs.jpg';
 import Image7 from './UniLink/manageMembers.jpg';
 import Image8 from './UniLink/viewClubs.png';
 import Image9 from './UniLink/createPost.jpg';
+import UniLink from './UniLink/UniLinkLogo.png';
 import React, { useContext, useEffect, useRef } from 'react';
 import ActiveSectionContext from './ActiveSectionContext';
 
@@ -76,14 +77,14 @@ function Section({ id, name, children }) {
             Passionate in Full-Stack Development with Skills in 
           </div>
           <div className="bunch-of-logos">
-          <img src={cppLogo} alt="C++" className="logo"/>
-          <img src={cLogo} alt="C" className="logo"/>
-          <img src={pythonLogo} alt="Python" className="logo"/>
-          <img src={htmlLogo} alt="HTML" className="logo"/>
-          <img src={cssLogo} alt="CSS" className="logo" style={{width: 23}}/>
-          <img src={jsLogo} alt="JS" className="logo" style={{width: 33}}/>
-          <img src={reactLogo} alt="React" className="logo" style={{width: 40}}/>
-          <img src={sqlLogo} alt="sql" className="logo" style={{width: 30}}/>
+            <img src={cppLogo} alt="C++" className="logo"/>
+            <img src={cLogo} alt="C" className="logo"/>
+            <img src={pythonLogo} alt="Python" className="logo"/>
+            <img src={htmlLogo} alt="HTML" className="logo"/>
+            <img src={cssLogo} alt="CSS" className="logo" style={{width: 23}}/>
+            <img src={jsLogo} alt="JS" className="logo" style={{width: 33}}/>
+            <img src={reactLogo} alt="React" className="logo" style={{width: 40}}/>
+            <img src={sqlLogo} alt="sql" className="logo" style={{width: 30}}/>
           </div>
         </div>
         <div className="bouncing-container">
@@ -96,7 +97,7 @@ function Section({ id, name, children }) {
     content = (
       <div className="SimCity-container">
         <div className="SimCity-left">
-          <div className="about-me-title">
+          <div className="SimCity-title">
             SimCity 1989 in C++
           </div>
           <div className="about-me-description">
@@ -106,6 +107,9 @@ function Section({ id, name, children }) {
               <li>Each house, uniquely generated at command such as 'B7 House', is characterized by distinct attributes and dependent on key resources.</li>
               <li>This project served as a significant milestone in advancing my understanding of Object-Oriented Programming (OOP)</li>
             </ul>
+          </div>
+          <div className="bunch-of-logos">
+            <img src={cppLogo} alt="C++" className="logo"/>
           </div>
         </div>
         <div className="SimCity-right">
@@ -117,16 +121,25 @@ function Section({ id, name, children }) {
     content = (
       <div className="UniLink-container">
         <div className="UniLink-left">
-          <div className="about-me-title">
-            SimCity 1989 in C++
+          <div className="UniLink-title">
+          <img src={UniLink} alt="UniLink" className="UniLink-logo"/>
           </div>
           <div className="about-me-description">
             <ul>
-              <li>Working collaboratively, we created SimCity 1989 with a C++ reincarnation.</li>
-              <li>Featuring a grid-based map and interactive text inputs.</li>
-              <li>Each house, uniquely generated at command such as 'B7 House', is characterized by distinct attributes and dependent on key resources.</li>
-              <li>This project served as a significant milestone in advancing my understanding of Object-Oriented Programming (OOP)</li>
+              <li>Learnt HTML, CSS, JS, and SQL through the UniLink website project.</li>
+              <li>Enabled effortless management of user information.</li>
+              <li>Facilitated club joining and staying updated with relevant club information.</li>
+              <li>Displayed and RSVP'd for upcoming club events.</li>
+              <li>Provided club managers with login capabilities to manage user information and view members.</li>
+              <li>Empowered system admins with comprehensive control over users, clubs, and admins.</li>
+              <li>Was put in charge of designing unique UI and FrontEnd entirely</li>
             </ul>
+          </div>
+          <div className="bunch-of-logos">
+            <img src={htmlLogo} alt="HTML" className="logo"/>
+            <img src={cssLogo} alt="CSS" className="logo" style={{width: 23}}/>
+            <img src={jsLogo} alt="JS" className="logo" style={{width: 33}}/>
+            <img src={sqlLogo} alt="sql" className="logo" style={{width: 30}}/>
           </div>
         </div>
         <div className="UniLink-right">

@@ -240,6 +240,12 @@
   width: 100%;
 }
 
+.SimCity-title{
+  font-size: 4em;
+  margin-left: 30px;
+  font-weight: 600;
+}
+
 /* UniLink.css */
 
 .UniLink-container {
@@ -262,5 +268,13 @@
 }
 
 .UniLink-images{
+  width: 100%;
+}
+
+.UniLink-title{
+  width: 100%;
+}
+
+.UniLink-logo{
   width: 100%;
 }
